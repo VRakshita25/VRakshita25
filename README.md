@@ -3,7 +3,7 @@
      For a 2nd-yr CyberSec student focused on Digital Forensics
    ══════════════════════════════════════════════-->
 
-<h1 align="center">🔎 <code>@VRakshita25</code> — Digital Forensics · 2nd yr</h1>
+<h1 align="center">🔎 <code>@VRakshita25</code> — CSE (Cyber Security) · 2nd yr</h1>
 <p align="center"><i>tracking artifacts, not fame. I follow traces — ethically.</i></p>
 
 ---
