@@ -41,7 +41,7 @@
 ---
 
 ### 🧩 CTF & practice
-I use CTFs to learn faster — practical, repeatable problems beat endless tutorials. (Add links to TryHackMe / HackTheBox / CTFtime if you want.)
+I use CTFs to learn faster — practical, repeatable problems beat endless tutorials. 
 
 ---
 
