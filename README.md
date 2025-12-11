@@ -35,7 +35,7 @@
 
 ### 📂 What you’ll find here
 - `CTF-Writeups/` — concise solutions and notes  
-- `DFIR-notes/` — commands, workflows, and quick references  
+- `DFIR-Notes/` — commands, workflows, and quick references  
 - `Labs/` — small, reproducible exercises (images, scripts, readme)
 
 ---
