@@ -57,6 +57,7 @@ I use CTFs to learn faster — practical, repeatable problems beat endless tutor
 </p>
 
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VRakshita25&theme=merko&hide_border=true" />
 
 
 
