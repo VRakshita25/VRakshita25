@@ -50,6 +50,7 @@ I use CTFs to learn faster — practical, repeatable problems beat endless tutor
 [![Email](https://img.shields.io/badge/Email-vrakshita1606%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:vrakshita1606@gmail.com)
 
 ---
+<img src="https://tryhackme-badges.s3.amazonaws.com/EnCase.png" alt="Your Image Badge" />
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VRakshita25&show_icons=true&theme=merko&hide_border=true&include_all_commits=true" />
