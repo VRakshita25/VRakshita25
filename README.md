@@ -48,9 +48,21 @@ I use CTFs to learn faster — practical, repeatable problems beat endless tutor
 ### 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rakshita-v-299776328/)  
 
+---
+### TryHackMe Achievements!
+
+<img width="700" height="362" alt="3 day streak" src="https://github.com/user-attachments/assets/ddb4ccb8-6093-4755-bced-4ddb5e4dea49" />
+
+<img width="700" height="362" alt="7 day streak" src="https://github.com/user-attachments/assets/9bec32f1-2d9a-4cc9-aad1-e0fb47fad418" />
+
+<img width="700" height="362" alt="Webbed badge" src="https://github.com/user-attachments/assets/175129bf-898b-4bb4-a6bf-492a60363fe6" />
+
+<img width="700" height="362" alt="World wide web badge" src="https://github.com/user-attachments/assets/9dd71999-5ccd-4717-9d7b-b79cda402dd8" />
+
 
 ---
-<img src="https://tryhackme-badges.s3.amazonaws.com/EnCase.png" alt="Your Image Badge" />
+
+### Github Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VRakshita25&show_icons=true&theme=merko&hide_border=true&include_all_commits=true" />
