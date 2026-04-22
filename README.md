@@ -59,6 +59,8 @@ I use CTFs to learn faster — practical, repeatable problems beat endless tutor
 
 <img width="700" height="362" alt="World wide web badge" src="https://github.com/user-attachments/assets/9dd71999-5ccd-4717-9d7b-b79cda402dd8" />
 
+<img width="700" height="362" alt="catlinux" src="https://github.com/user-attachments/assets/d1d6419d-443d-49d3-9cdd-4789b25dd1d1" />
+
 
 ---
 
