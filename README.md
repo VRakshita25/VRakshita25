@@ -51,28 +51,27 @@ I use CTFs to learn faster — practical, repeatable problems beat endless tutor
 ---
 ### TryHackMe Achievements!
 
-<img width="700" height="362" alt="3 day streak" src="https://github.com/user-attachments/assets/ddb4ccb8-6093-4755-bced-4ddb5e4dea49" />
+<img width="200" height="100" alt="3 day streak" src="https://github.com/user-attachments/assets/ddb4ccb8-6093-4755-bced-4ddb5e4dea49" />
 
-<img width="700" height="362" alt="7 day streak" src="https://github.com/user-attachments/assets/9bec32f1-2d9a-4cc9-aad1-e0fb47fad418" />
+<img width="200" height="100" alt="7 day streak" src="https://github.com/user-attachments/assets/9bec32f1-2d9a-4cc9-aad1-e0fb47fad418" />
 
-<img width="700" height="362" alt="Webbed badge" src="https://github.com/user-attachments/assets/175129bf-898b-4bb4-a6bf-492a60363fe6" />
+<img width="200" height="100" alt="Webbed badge" src="https://github.com/user-attachments/assets/175129bf-898b-4bb4-a6bf-492a60363fe6" />
 
-<img width="700" height="362" alt="World wide web badge" src="https://github.com/user-attachments/assets/9dd71999-5ccd-4717-9d7b-b79cda402dd8" />
+<img width="200" height="100" alt="World wide web badge" src="https://github.com/user-attachments/assets/9dd71999-5ccd-4717-9d7b-b79cda402dd8" />
 
-<img width="700" height="362" alt="catlinux" src="https://github.com/user-attachments/assets/d1d6419d-443d-49d3-9cdd-4789b25dd1d1" />
+<img width="200" height="100" alt="catlinux" src="https://github.com/user-attachments/assets/d1d6419d-443d-49d3-9cdd-4789b25dd1d1" />
 
 
 ---
 
 ### Github Stats
 
-<p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VRakshita25&show_icons=true&theme=merko&hide_border=true&include_all_commits=true" />
   <img
   height="180em"
   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VRakshita25&layout=compact&langs_count=6&theme=merko&hide_border=true"
 />
-</p>
+
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VRakshita25&theme=merko&hide_border=true" />
