@@ -61,6 +61,8 @@ I use CTFs to learn faster — practical, repeatable problems beat endless tutor
 
 <img width="200" height="100" alt="catlinux" src="https://github.com/user-attachments/assets/d1d6419d-443d-49d3-9cdd-4789b25dd1d1" />
 
+<img width="200" height="100" alt="Adversarial Defence Ops" src="https://github.com/user-attachments/assets/64fe0b4a-d31e-4515-9cbf-359779ba625d" />
+
 
 ---
 
