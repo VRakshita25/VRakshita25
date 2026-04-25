@@ -63,6 +63,15 @@ I use CTFs to learn faster — practical, repeatable problems beat endless tutor
 
 <img width="200" height="100" alt="Adversarial Defence Ops" src="https://github.com/user-attachments/assets/64fe0b4a-d31e-4515-9cbf-359779ba625d" />
 
+<img width="200" height="100" alt="100perctrue" src="https://github.com/user-attachments/assets/deaa3b14-27e8-4c4a-a176-79a1f3b2e7eb" />
+
+<img width="200" height="100" alt="first alert closed" src="https://github.com/user-attachments/assets/b3b38c4c-fa28-4b1e-94cd-b37a0dcb62ee" />
+
+<img width="200" height="100" alt="first scenario completed" src="https://github.com/user-attachments/assets/b1475abb-f4d3-4b40-b527-b04eebb9c642" />
+
+
+
+
 
 ---
 
