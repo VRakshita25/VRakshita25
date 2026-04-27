@@ -51,23 +51,25 @@ I use CTFs to learn faster — practical, repeatable problems beat endless tutor
 ---
 ### TryHackMe Achievements!
 
-<img width="200" height="100" alt="3 day streak" src="https://github.com/user-attachments/assets/ddb4ccb8-6093-4755-bced-4ddb5e4dea49" />
-
-<img width="200" height="100" alt="7 day streak" src="https://github.com/user-attachments/assets/9bec32f1-2d9a-4cc9-aad1-e0fb47fad418" />
-
-<img width="200" height="100" alt="Webbed badge" src="https://github.com/user-attachments/assets/175129bf-898b-4bb4-a6bf-492a60363fe6" />
-
-<img width="200" height="100" alt="World wide web badge" src="https://github.com/user-attachments/assets/9dd71999-5ccd-4717-9d7b-b79cda402dd8" />
-
-<img width="200" height="100" alt="catlinux" src="https://github.com/user-attachments/assets/d1d6419d-443d-49d3-9cdd-4789b25dd1d1" />
-
-<img width="200" height="100" alt="Adversarial Defence Ops" src="https://github.com/user-attachments/assets/64fe0b4a-d31e-4515-9cbf-359779ba625d" />
-
-<img width="200" height="100" alt="100perctrue" src="https://github.com/user-attachments/assets/deaa3b14-27e8-4c4a-a176-79a1f3b2e7eb" />
-
-<img width="200" height="100" alt="first alert closed" src="https://github.com/user-attachments/assets/b3b38c4c-fa28-4b1e-94cd-b37a0dcb62ee" />
-
-<img width="200" height="100" alt="first scenario completed" src="https://github.com/user-attachments/assets/b1475abb-f4d3-4b40-b527-b04eebb9c642" />
+<div align="center">
+  <table>
+    <tr>
+      <td><img width="200" alt="3 day streak" src="https://github.com/user-attachments/assets/ddb4ccb8-6093-4755-bced-4ddb5e4dea49" /></td>
+      <td><img width="200" alt="7 day streak" src="https://github.com/user-attachments/assets/9bec32f1-2d9a-4cc9-aad1-e0fb47fad418" /></td>
+      <td><img width="200" alt="Webbed badge" src="https://github.com/user-attachments/assets/175129bf-898b-4bb4-a6bf-492a60363fe6" /></td>
+    </tr>
+    <tr>
+      <td><img width="200" alt="World wide web badge" src="https://github.com/user-attachments/assets/9dd71999-5ccd-4717-9d7b-b79cda402dd8" /></td>
+      <td><img width="200" alt="catlinux" src="https://github.com/user-attachments/assets/d1d6419d-443d-49d3-9cdd-4789b25dd1d1" /></td>
+      <td><img width="200" alt="Adversarial Defence Ops" src="https://github.com/user-attachments/assets/64fe0b4a-d31e-4515-9cbf-359779ba625d" /></td>
+    </tr>
+    <tr>
+      <td><img width="200" alt="100perctrue" src="https://github.com/user-attachments/assets/deaa3b14-27e8-4c4a-a176-79a1f3b2e7eb" /></td>
+      <td><img width="200" alt="first alert closed" src="https://github.com/user-attachments/assets/b3b38c4c-fa28-4b1e-94cd-b37a0dcb62ee" /></td>
+      <td><img width="200" alt="first scenario completed" src="https://github.com/user-attachments/assets/b1475abb-f4d3-4b40-b527-b04eebb9c642" /></td>
+    </tr>
+  </table>
+</div>
 
 
 
