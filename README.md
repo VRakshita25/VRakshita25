@@ -77,16 +77,6 @@ I use CTFs to learn faster — practical, repeatable problems beat endless tutor
 
 ---
 
-### Github Stats
-
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VRakshita25&show_icons=true&theme=merko&hide_border=true&include_all_commits=true" />
-  <img
-  height="180em"
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VRakshita25&layout=compact&langs_count=6&theme=merko&hide_border=true"
-/>
-
-
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VRakshita25&theme=merko&hide_border=true" />
 
 
