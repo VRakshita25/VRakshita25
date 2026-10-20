@@ -12,7 +12,7 @@
 
 ### 🧭 About Me
 
-I'm pursuing a B.E. in Computer Science and Engineering (Cyber Security) at Saveetha Engineering College (2024–2028). I'm interested in digital forensics, incident response, OSINT, and understanding how attacks happen and how digital evidence can help reconstruct them. I learn by doing through CTFs, practical labs, and security projects.
+I'm pursuing a B.E. in Computer Science and Engineering (Cyber Security). I'm interested in digital forensics, incident response, OSINT, and understanding how attacks happen and how digital evidence can help reconstruct them. I learn by doing through CTFs, practical labs, and security projects.
 
 ---
 
