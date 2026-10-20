@@ -1,55 +1,96 @@
-<h1 align="center">⚔️ Hey, I'm V RAKSHITA!</h1>
-<h3 align="center">Cybersecurity Student • DFIR & Ethical Hacking Learner • CTF Player 🧩</h3>
+ <h1 align="center">⚔️ Hey, I'm V RAKSHITA!</h1>
+<h3 align="center">Cybersecurity Student • Digital Forensics & Incident Response • CTF Player 🧩</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Digital_Forensics-AE0000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Interest-Cybersecurity-AE0000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Hands--On-AE0000?style=flat-square" />
+</p>
+ 
 
 ---
 
 ### 🧭 About Me
-2nd-year Cybersecurity student. I dig into how systems break and how to investigate them — whether that's reversing an attack, pulling meaningful artifacts from a disk image, or finding a weak point in a web app. I learn by doing (CTFs, labs, notes) and document what works.
+
+I'm pursuing a B.E. in Computer Science and Engineering (Cyber Security) at Saveetha Engineering College (2024–2028). I'm interested in digital forensics, incident response, OSINT, and understanding how attacks happen and how digital evidence can help reconstruct them. I learn by doing through CTFs, practical labs, and security projects.
 
 ---
 
 ### 🧰 Toolbox (what I actually use)
-- **Platform:** Kali Linux  
-- **Forensics & IR:** Autopsy · Sleuth Kit · FTK Imager · ExifTool  
-- **Practice:** CTFs, TryHackMe / HackTheBox exercises
 
-**Exploring / learning (hands-on):** Nmap, Wireshark, Burp Suite, basic scripting (Python / Bash)
+- **Operating Systems:** Kali Linux
+- **Forensics & IR:** Autopsy · Sleuth Kit · FTK Imager · ExifTool
+- **Security & Analysis:** Wireshark · Burp Suite · Nmap · OSINT
+- **Programming:** Python · Java · C · SQL · JavaScript
+- **Libraries & Tools:** NumPy · Pandas · Docker · Pygame
+- **Practice:** TryHackMe · HackTheBox · CTF competitions
 
-> Not claiming mastery — just building solid, practical skills.
+**Areas I'm developing:** Digital document forensics, network analysis, cryptography, web security, and security automation.
+
+> Always learning, experimenting, and building practical skills.
 
 ---
 
 ### 🚀 What I focus on
-- **Digital Forensics / IR:** evidence acquisition, timeline basics, metadata checks  
-- **Ethical Hacking:** reconnaissance, simple scans, basic web testing and exploitation fundamentals  
-- **CTFs & labs:** real practice problems that teach methods, not just answers
+
+- **Digital Forensics / IR:** Evidence acquisition, metadata examination, image analysis, and investigation fundamentals.
+- **Ethical Hacking:** Reconnaissance, network scanning, web application testing, and exploitation fundamentals.
+- **Security Research:** OSINT, cryptography, and understanding attack techniques.
+- **CTFs & Labs:** Hands-on challenges, investigation notes, and reproducible experiments.
 
 ---
 
-### 🎯 Short-term goals
-- Build reproducible mini-labs for both DFIR and web/network ops  
-- Write clear, short CTF writeups and investigation notes  
-- Automate small parts of my workflow with scripts
+### 💻 Projects & Contributions
+
+- **Obvioscopic** — A digital document and image forensics project exploring metadata examination, Error Level Analysis (ELA), and image analysis.
 
 ---
 
-### 📂 What you’ll find here
-- `CTF-Writeups/` — what I did and why
-- `DFIR-Notes/` — how I investigated things
-- `Labs/` — small setups I used to understand topics
+### 🏆 CTFs & Achievements
+
+- **2nd Place — SRM Cyber Carnival '26:** Competed in a team of 2 and secured 2nd place out of 43 teams, with four first bloods.
+- **2nd Place — Cyber Trail, Trojans 2025:** Recognized for CTF performance.
 
 ---
 
-### 🧩 CTF & practice
-I use CTFs to learn faster — practical, repeatable problems beat endless tutorials. 
+### 🎯 Short-term Goals
+- Strengthen my fundamentals in cybersecurity, operating systems, and networking.
+- Build a deeper understanding of digital forensics and investigation techniques.
+- Improve my problem-solving skills through CTFs and hands-on practice.
+- Get better at scripting and automating security tasks.
 
 ---
 
-### 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rakshita-v-299776328/)  
+### 📂 What you'll find here
+
+- `CTF-Writeups/` — Challenges, techniques, and solutions.
+- `DFIR-Notes/` — Digital forensics concepts and investigation notes.
+- `Labs/` — Practical experiments and security setups.
+- `Projects/` — Tools and projects built while learning.
 
 ---
-### TryHackMe Achievements!
+
+### 🧩 CTF & Practice
+
+I use CTFs to learn faster — practical, repeatable problems beat endless tutorials. Every challenge is an opportunity to understand a technique, investigate a problem, and document what I learn.
+
+---
+
+### 📫 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/rakshita-v-299776328/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="38" height="38" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@vrakshita">
+    <img src="https://cdn.simpleicons.org/medium/FFFFFF" width="38" height="38" alt="Medium" />
+  </a>
+</p>
+
+---
+
+### 🏅 TryHackMe Achievements!
 
 <div align="center">
   <table>
@@ -82,16 +123,6 @@ I use CTFs to learn faster — practical, repeatable problems beat endless tutor
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VRakshita25&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Most Used Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VRakshita25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
-
-
-
 ---
-
-
-
 
 <p align="center">Confident, curious, and building — one lab at a time.</p>
